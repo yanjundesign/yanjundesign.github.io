@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Yanjun Lyu, PhD candidate at ASU. I work as a research assistant at [Synthesis Center] (http://synthesis.ame.asu.edu/) advised under Prof. Sha Xin Wei. My research focus is embodied interaction, which I explored 
-
-
+I am Yanjun Lyu, PhD candidate at ASU. I work as a research assistant at [Synthesis Center] (http://synthesis.ame.asu.edu/) advised under Prof. Sha Xin Wei. As a Human-Computer Interaction researcher, my reseaerch focus is embodied (enactive)interaction, where I design and develop wearbale computing system for human movement detection, proximity interaction that empower human behviours interaction and sociality. Before joinning ASU, I earned my Master degree from Massachusetts Colledge of Arts and Design, where I  was cross-registered in MIT's Tangbile Media Lab. I earned my Bachelor degree in visual communication design at China Central Academy of Fine Arts. Combing my multidsicplinary knoweldge in media arts, science and technology, my work emphasis a poetic, enchanted expreince. 
 
 A data-driven personal website
 ======
