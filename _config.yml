@@ -8,9 +8,9 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "LYU YANJUN"
-title_separator          : "-"
+title_separator          : "Ph.D Candidate"
 name                     : &name "Yanjun"
-description              : &description "personal description"
+description              : &description "I'm currentlly a ....."
 url                      : https://yanjundesign.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yanjundesign.github.io"
